@@ -203,8 +203,23 @@ TEMPLATE = u'''<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Malfoid shorts by @{handle}, in story order</title>
 <meta name="description" content="An unofficial reading list of @{handle}'s Malfoid short stories on X, in in-universe chronological order, shown as the original X posts.">
+<link rel="canonical" href="https://rguillimanxiii.github.io/Karla-Malfoid-reader/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Malfoid reader">
+<meta property="og:url" content="https://rguillimanxiii.github.io/Karla-Malfoid-reader/">
 <meta property="og:title" content="Malfoid shorts by @{handle}, in story order">
 <meta property="og:description" content="{count} Malfoid shorts by @{handle}, in in-universe order, shown as the original X posts.">
+<meta property="og:image" content="https://rguillimanxiii.github.io/Karla-Malfoid-reader/assets/og-image.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Malfoid: short stories by @{handle}, in story order">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@{handle}">
+<meta name="twitter:title" content="Malfoid shorts by @{handle}, in story order">
+<meta name="twitter:description" content="{count} Malfoid shorts by @{handle}, in in-universe order, shown as the original X posts.">
+<meta name="twitter:image" content="https://rguillimanxiii.github.io/Karla-Malfoid-reader/assets/og-image.png">
+<meta name="twitter:image:alt" content="Malfoid: short stories by @{handle}, in story order">
 <meta name="twitter:widgets:theme" content="dark">
 <style>
 {css}
