@@ -1,0 +1,768 @@
+{
+ "author": {
+  "username": "KarlaBoban97",
+  "id": "2009643135618756609",
+  "name": "Karla | Slytherin 🐍"
+ },
+ "arcs": [
+  {
+   "id": "prologue",
+   "title": "Prologue",
+   "blurb": "A snapshot from long before Hogwarts."
+  },
+  {
+   "id": "term",
+   "title": "Hogwarts days",
+   "blurb": "School life before the exchange, while Malfoid is still pretending she doesn't care about Potter."
+  },
+  {
+   "id": "poland",
+   "title": "The student exchange in Poland",
+   "blurb": "Malfoid spends an exchange term at a Polish wizarding school, roughly in order of the day numbers she gives."
+  },
+  {
+   "id": "together",
+   "title": "Back at Hogwarts",
+   "blurb": "Hogsmeade, Quidditch, and Ginny Weasley, through to the end of the school year."
+  },
+  {
+   "id": "summer",
+   "title": "The summer: Privet Drive to Malfoy Manor",
+   "blurb": "The ongoing serial: the Dursleys, Crabbe's summer, and Potter moving to the Malfoy estate."
+  },
+  {
+   "id": "war",
+   "title": "The war",
+   "blurb": "Glimpses of the fight against the Dark Lord and what comes after."
+  }
+ ],
+ "shorts": [
+  {
+   "arc": "prologue",
+   "post_ids": [
+    "2107406574935322845"
+   ],
+   "date": "2026-10-06",
+   "title": "Poland, 1987",
+   "summary": "A retro snapshot: Slytherin pride meets the Eastern Bloc.",
+   "text": "Malfoid, 1987. Somewhere in Poland. Slytherin pride meets the Eastern Bloc."
+  },
+  {
+   "arc": "term",
+   "post_ids": [
+    "2107500573448671517"
+   ],
+   "date": "2026-10-06",
+   "title": "Seen 2 minutes ago",
+   "summary": "Her message is left on \"seen\", and she absolutely does not care. Obviously.",
+   "text": "Malfoid sent the message and saw: “Seen 2 minutes ago.”\nShe told herself she didn't care.\nTwenty-seven minutes later, dark magic was filling the room and books were floating around her.\nShe still didn't care. Obviously. 🐍📱"
+  },
+  {
+   "arc": "term",
+   "post_ids": [
+    "2109197724889592079"
+   ],
+   "date": "2026-10-11",
+   "title": "Practising a smile",
+   "summary": "She tries smiling so Harry will find her approachable; the mirror seems to mock her.",
+   "text": "Malfoid has decided that perhaps Harry would find her more approachable if she smiled occasionally.\nFive minutes of practice later, she's convinced the mirror is mocking her.\nTomorrow, she'll try dark magic instead. 🐍\n#Malfoid"
+  },
+  {
+   "arc": "term",
+   "post_ids": [
+    "2108947928685646088"
+   ],
+   "date": "2026-10-10",
+   "title": "Sleeping princess",
+   "summary": "Wake the sleeping Slytherin princess at your peril. Harry may get one exception.",
+   "text": "The Slytherin princess is sleeping. Wake her and face the consequences of dark magic. 😴🐍\nHarry, however, may be granted an exception. Once. Maybe.\n#Malfoid"
+  },
+  {
+   "arc": "term",
+   "post_ids": [
+    "2109221015351902214"
+   ],
+   "date": "2026-10-11",
+   "title": "Too much tea",
+   "summary": "She tells herself she just made too much tea, and that it isn't waiting for anyone.",
+   "text": "She kept telling herself she'd simply made too much tea.🍵\nSome feelings are easier to hide than to admit, even to yourself. Especially when a little warmth is waiting for someone who hasn't arrived yet. 💚\n#Malfoid"
+  },
+  {
+   "arc": "term",
+   "post_ids": [
+    "2109263677312368841"
+   ],
+   "date": "2026-10-11",
+   "title": "The tiny visitor",
+   "summary": "A tiny creature lands on Malfoid, and Harry sees how gentle she can be.",
+   "text": "She never understood why something so small would choose her. 🤍✨\nMalfoid held perfectly still, afraid to disturb the tiny visitor. Harry had just discovered that even the coldest hearts can be gentle with the smallest things. 🐍\n#Malfoid"
+  },
+  {
+   "arc": "term",
+   "post_ids": [
+    "2108897385833509209"
+   ],
+   "date": "2026-10-10",
+   "title": "A heart on the window",
+   "summary": "A small heart drawn on a rainy window says what she won't.",
+   "text": "Some feelings are easier to hide than to draw. 🤍🌧️ Especially when a tiny heart on a rainy window says more than words ever could. 🐍\n#Malfoid"
+  },
+  {
+   "arc": "term",
+   "post_ids": [
+    "2107509295927722354"
+   ],
+   "date": "2026-10-06",
+   "title": "The ancient demon",
+   "summary": "She summons an ancient demon. \"You're not what I ordered.\"",
+   "text": "Malfoid summoned an ancient demon.\nIt was enormous, terrifying, and probably older than civilization itself.\nShe looked at it for three seconds.\n\"You're not what I ordered.\" 🐍🔥"
+  },
+  {
+   "arc": "term",
+   "post_ids": [
+    "2107567407925702980"
+   ],
+   "date": "2026-10-06",
+   "title": "Certifying a dragon",
+   "summary": "Modern bureaucrats want her dragon certified; she handles it the traditional way.",
+   "text": "🐉🇪🇺 Modern bureaucrats tried to make Malfoid certify a dragon.\nShe chose the traditional method of dealing with bureaucracy.🔥\n#Malfoid"
+  },
+  {
+   "arc": "term",
+   "post_ids": [
+    "2107599676039901305"
+   ],
+   "date": "2026-10-06",
+   "title": "Inclusive Magic Training",
+   "summary": "Hogwarts brings in mandatory Inclusive Magic Training. Malfoid has questions.",
+   "text": "🪄📋 Hogwarts has introduced mandatory Inclusive Magic Training.\nMalfoid has questions. Mostly about who thought this was necessary. 😐\n\"I was perfectly capable of casting spells before the training.\"\n#Malfoid"
+  },
+  {
+   "arc": "term",
+   "post_ids": [
+    "2107849136888226075"
+   ],
+   "date": "2026-10-07",
+   "title": "Diversity quotas",
+   "summary": "Hogwarts adds magical diversity quotas: \"recruitment by spreadsheet.\"",
+   "text": "🏰📊 Hogwarts has introduced magical diversity quotas.\nMalfoid studies the numbers in disgust.\n“Apparently Hogwarts now recruits by spreadsheet.” 😐#Malfoid"
+  },
+  {
+   "arc": "term",
+   "post_ids": [
+    "2107902787514146958"
+   ],
+   "date": "2026-10-07",
+   "title": "The microaggression",
+   "summary": "Calling someone \"a wizard\" may now be a microaggression; she reconsiders her career.",
+   "text": "🪄📋 Malfoid has just discovered that calling someone \"a wizard\" may be a microaggression.\nShe has begun reconsidering her career path.\nThe Dark Lord's rightful heir may be closer than anyone expected. 😐🔥\n#Malfoid"
+  },
+  {
+   "arc": "term",
+   "post_ids": [
+    "2108191280530444799"
+   ],
+   "date": "2026-10-08",
+   "title": "The magic tax",
+   "summary": "Casting spells now carries an environmental tax. How dare they.",
+   "text": "🪄💸 Malfoid has discovered that even using magic now comes with an environmental tax.\n“Think about the environment before casting an unnecessary spell.”\nHow dare they put a price on magic. 😐\n#Malfoid"
+  },
+  {
+   "arc": "term",
+   "post_ids": [
+    "2108226673019658734"
+   ],
+   "date": "2026-10-08",
+   "title": "Unconscious bias",
+   "summary": "\"Unconscious Bias in Spellcasting\" training: knowing what you're doing is now a bias.",
+   "text": "🪄📋 Hogwarts has introduced mandatory “Unconscious Bias in Spellcasting” training.\nMalfoid has spent seven years learning dark magic, ancient curses and defensive spells.\nApparently, knowing what you're doing is now a bias. 🐍\n#Malfoid"
+  },
+  {
+   "arc": "term",
+   "post_ids": [
+    "2107952370260877607"
+   ],
+   "date": "2026-10-07",
+   "title": "Burning the love letters",
+   "summary": "Before leaving for Poland she burns every love letter. None of them was from Potter.",
+   "text": "💌🔥 Before leaving Hogwarts for her student exchange in Poland, Malfoid burned every love letter she had ever received.\nThe ones she opened were read purely for comedic value.\nNot a single letter from Potter, though. 😐\n#Malfoid"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2107535420653445420"
+   ],
+   "date": "2026-10-06",
+   "title": "The Polish railway",
+   "summary": "Her train is delayed. \"I was promised punctuality.\"",
+   "text": "🇵🇱🚆 Malfoid discovers the Polish railway system.\nHer train is delayed. Everyone is complaining. She remains perfectly composed.\n\"I was promised punctuality.\""
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2108132431152751027"
+   ],
+   "date": "2026-10-08",
+   "title": "The dorm",
+   "summary": "She arrives at a Polish student dorm the size of a broom cupboard.",
+   "text": "🇵🇱🏠 Malfoid has arrived at her Polish student dorm.\nShe was expecting wizarding accommodation.\nInstead, she has discovered that two people are apparently expected to coexist in the size of a broom cupboard.\nHer luggage has already filed a complaint. 😐\n#Malfoid"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2107552069846811040"
+   ],
+   "date": "2026-10-06",
+   "title": "IKEA furniture",
+   "summary": "Malfoid against flat-pack furniture: \"And this is supposed to replace magic?\"",
+   "text": "🪄🛠️ Malfoid has conquered Hogwarts, mastered magic and now faces her greatest challenge: IKEA furniture.\nShe studies the Allen key in silence.\n“And this is supposed to replace magic?”😐\n#Malfoid"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2107770239505346719"
+   ],
+   "date": "2026-10-07",
+   "title": "The housing estate",
+   "summary": "She discovers a ten-storey post-communist housing estate.",
+   "text": "🏢🇵🇱 Malfoid discovers a post-communist Polish housing estate.\nTen floors. Hundreds of apartments. Everyone living on top of everyone else.\nShe has questions. 😐\n#Malfoid"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2107786277525258636"
+   ],
+   "date": "2026-10-07",
+   "title": "Three days in",
+   "summary": "Three days in: she should have stayed at Hogwarts. Where's Harry?",
+   "text": "🇵🇱📚 Malfoid, three days into her Polish student exchange program, has reached one very important conclusion:\nShe should have stayed at Hogwarts. And where's Harry when you actually need him?\nShe is now seriously considering burning the whole place to the ground. 🔥😐\n#Malfoid"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2107967637208945009"
+   ],
+   "date": "2026-10-07",
+   "title": "Day 4: the student social",
+   "summary": "An international student social. She decides dark magic would be too dramatic.",
+   "text": "🇵🇱🎓 Day 4 of Malfoid's student exchange in Poland.\nTonight's activity: an international student social.\nShe briefly considered using dark magic on everyone, then decided it would be unnecessarily dramatic. 😐🪄\n#Malfoid"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2107829918637720061"
+   ],
+   "date": "2026-10-07",
+   "title": "The full tram",
+   "summary": "The tram is full, and she thinks about making the passengers disappear.",
+   "text": "🚋🇵🇱 The tram is full.\nMalfoid considers making the passengers disappear. 🪄💚\nPublic transport has been warned.\n#Malfoid"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2107416666288103430"
+   ],
+   "date": "2026-10-06",
+   "title": "The InPost locker",
+   "summary": "Even Malfoid has to pick up her InPost parcel.",
+   "text": "Even Malfoid has to collect her InPost package in Poland. 🐍📦\nSlytherin royalty meets the most Polish side quest imaginable."
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2107404411480027444"
+   ],
+   "date": "2026-10-06",
+   "title": "Żabka at 10 PM",
+   "summary": "One Slytherin, one hot dog, Poland's most dangerous place.",
+   "text": "Malfoid discovered Poland’s most dangerous place: Żabka at 10 PM. 🐍🇵🇱 One Slytherin, one hot dog."
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2107425524469452925"
+   ],
+   "date": "2026-10-06",
+   "title": "The coffee machine",
+   "summary": "She finds the strongest magic in a Żabka: the coffee machine.",
+   "text": "Malfoid discovering the most powerful piece of magic in a Polish Żabka store: the coffee machine. 🐍☕🇵🇱\nThe Muggles are watching. She knows exactly what she's doing."
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2107468949546020929"
+   ],
+   "date": "2026-10-06",
+   "title": "The ten-person queue",
+   "summary": "Nothing prepared her for a ten-person queue at Żabka.",
+   "text": "Malfoid has faced Death Eaters, exams and Slytherin politics. But nothing prepared her for a 10-person queue in a Polish Żabka store. 🐍🇵🇱"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2107486562380575080"
+   ],
+   "date": "2026-10-06",
+   "title": "Closing time",
+   "summary": "She came for an energy drink, and then the shop started closing.",
+   "text": "Malfoid came to a Polish Żabka for an energy drink. Then they told her the store was closing. She has faced dark magic, but this may be the first time she has considered using it. 🐍🇵🇱"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2107529532332790256"
+   ],
+   "date": "2026-10-06",
+   "title": "Biedronka self-checkout",
+   "summary": "\"PLEASE TAKE YOUR RECEIPT.\" The machine may not last the afternoon.",
+   "text": "Malfoid went to Polish store Biedronka expecting a dignified shopping experience.\nThen the self-checkout screamed: “PLEASE TAKE YOUR RECEIPT.”\nShe has faced dark magic, ancient demons, and the entire Slytherin common room.\nBut this machine may not survive the afternoon. 🐍🇵🇱"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2108207544800043031"
+   ],
+   "date": "2026-10-08",
+   "title": "Day 6: the bathroom",
+   "summary": "She still hasn't recovered from the dorm bathroom.",
+   "text": "🚿🇵🇱 Day 6 of Malfoid’s Polish student exchange.\nShe still hasn’t recovered from the bathroom.\n“If this is the standard, I may have to resort to dark magic.”\n#Malfoid"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2108467372436681158"
+   ],
+   "date": "2026-10-09",
+   "title": "Day 7: rain",
+   "summary": "Rain, a good umbrella, and no Potter to share it with.",
+   "text": "🇵🇱🌧️ Day 7 of Malfoid’s student exchange in Poland.\nA little rain. A perfectly good umbrella. And absolutely no Potter to share it with.\nHow terribly inconvenient. 🐍☂️\n#Malfoid"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2108968691693986074"
+   ],
+   "date": "2026-10-10",
+   "title": "Day 7: pierogi",
+   "summary": "Twelve \"enchanted\" pierogi later, she wonders if Harry would like them.",
+   "text": "Day 7 of Malfoid’s wizarding student exchange in Poland. 🇵🇱\nMalfoid has discovered Polish pierogi. She suspects the dumplings are enchanted. She has eaten twelve while investigating. Now she’s wondering if Harry would like them, too. 🥟🐍\n#Malfoid"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2107881995032314338"
+   ],
+   "date": "2026-10-07",
+   "title": "Potatoes every day",
+   "summary": "One week in: potatoes for lunch every day, and her faith is fading.",
+   "text": "🇵🇱🍽️ Malfoid is an exchange student from Hogwarts at a Polish wizardry school.\nOne week in, she’s had potatoes for lunch every day.\nHer faith in Polish cuisine is hanging by a thread. 😐🥔\n#Malfoid"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2107409158311989483"
+   ],
+   "date": "2026-10-06",
+   "title": "The Polish wedding",
+   "summary": "She survived Hogwarts. The uncle after three vodkas might be too much.",
+   "text": "Malfoid has been invited to a Polish wedding.\nShe has survived Hogwarts, but the uncle after three vodkas might finally break her. 🐍🇵🇱"
+  },
+  {
+   "arc": "poland",
+   "post_ids": [
+    "2108609883323121831"
+   ],
+   "date": "2026-10-09",
+   "title": "St. Mary's Basilica",
+   "summary": "In Kraków, the Slytherin princess is lost for words: \"Oh… this is beautiful.\"",
+   "text": "🇵🇱⛪ During her student exchange in Poland, Malfoid visits St. Mary’s Basilica in Kraków. For once, the Slytherin princess is lost for words.\n“Oh… this is beautiful.” 🥹🤍\n#Malfoid"
+  },
+  {
+   "arc": "together",
+   "post_ids": [
+    "2109668698407493697"
+   ],
+   "date": "2026-10-12",
+   "title": "Get on, loser",
+   "summary": "Off to Hogsmeade. Malfoid has plans, and Potter carries the bags.",
+   "text": "“Get on, loser. We're going shopping.”\nTime to go to Hogsmeade. Malfoid has plans. Potter is carrying the bags. 💚\nAnd Malfoid is not a mean girl. She's just exceptionally particular about who gets to spend time with her. \n#Malfoid"
+  },
+  {
+   "arc": "together",
+   "post_ids": [
+    "2109937170983121095"
+   ],
+   "date": "2026-10-13",
+   "title": "Hogsmeade, halfway through",
+   "summary": "Halfway down the shopping list, and still nothing suitable for Potter.",
+   "text": "🛍️ Malfoid has a shopping list. Potter has the shopping.\n\"We're halfway through, Potter. And I've yet to find you anything suitable.\"\nHarry is beginning to question every decision that led him to Hogsmeade today.\nMalfoid considers the afternoon a success. 💚\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "together",
+   "post_ids": [
+    "2110427803887792433"
+   ],
+   "date": "2026-10-14",
+   "title": "Queen of Quidditch",
+   "summary": "A song for the new Queen of Quidditch.",
+   "text": "🏆 The new Queen of Quidditch has arrived. Malfoid conquers the pitch with pure beauty, pure talent, and the instincts of a champion. 🐍\nIt's the hiss of the snake,\nIt's the thrill of the game,\nRising up to defeat every rival,\nWith emerald eyes full of flame.\nAnd she's stalking the pitch,\nWith her victory in sight,\nShe's the Queen of Quidditch,\nAnd she's claiming the night.\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "together",
+   "post_ids": [
+    "2112232726187458887"
+   ],
+   "date": "2026-10-19",
+   "title": "Slytherin vs Hufflepuff",
+   "summary": "With Potter not playing, she can simply support her own House.",
+   "text": "Malfoid had never considered divided loyalties a particularly admirable quality. With Potter absent from the pitch, her allegiance during Slytherin’s match against Hufflepuff was perfectly uncomplicated.\nOne supports one’s own House, naturally. 🐍💚\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "together",
+   "post_ids": [
+    "2110064636452323515"
+   ],
+   "date": "2026-10-13",
+   "title": "The summons",
+   "summary": "Why hasn't Potter told his Gryffindor friends they're together?",
+   "text": "🐍 Malfoid has summoned Harry Potter for a matter of considerable importance.\nWhy, exactly, has he still not told his pathetic Gryffindor friends that they're together?\nEspecially when that little red-haired Weasley girl seems to be looking at him all the time.\nMalfoid expects an explanation, Potter.\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "together",
+   "post_ids": [
+    "2110117418831900738"
+   ],
+   "date": "2026-10-13",
+   "title": "Ginny's POV",
+   "summary": "Ginny wanted a quiet word with Harry. Malfoid takes his arm.",
+   "text": "🧡 Ginny's POV: She was hoping for a quiet conversation with Harry. Unfortunately, Malfoid has never considered other people's plans particularly binding.\nOne arm linked through his, and suddenly Ginny discovers that Malfoid's definition of personal space is remarkably flexible.🐍\nHarry, meanwhile, is discovering that every denial only makes things worse.\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "together",
+   "post_ids": [
+    "2108842743954899098"
+   ],
+   "date": "2026-10-10",
+   "title": "Spaghetti for two",
+   "summary": "One plate of spaghetti, two souls, a stolen glance.",
+   "text": "The world forgot that true beauty and love need no explanation, only an open heart. Sometimes, it's just two souls sharing a plate of spaghetti, a stolen glance, and a moment so tender you wish time would stand still. 🤍✨\n#Malfoid #HarryPotter"
+  },
+  {
+   "arc": "together",
+   "post_ids": [
+    "2109756405112590538"
+   ],
+   "date": "2026-10-12",
+   "title": "The annual review",
+   "summary": "Crabbe and Goyle fail their annual review and must improve by September.",
+   "text": "Malfoid has completed her annual review of Crabbe and Goyle.\nThe results were disappointing.\nThey have until September to improve their fitness, appearance, and overall suitability as her companions.\nSlytherin friendship comes with performance targets. 🐍\n#Malfoid"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2109346842752450850"
+   ],
+   "date": "2026-10-11",
+   "title": "Harry's POV: home for the summer",
+   "summary": "One afternoon away, and Dudley has become her personal servant.",
+   "text": "Harry’s POV: You come home for the summer and find Malfoid drinking tea in the living room while Dudley has somehow become her personal servant. 🫖🐍\nYou’ve been gone for one afternoon.\nDudley has already lost his second bedroom, his dignity, and the right to sit down.\n#Malfoid"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2110002175103435036"
+   ],
+   "date": "2026-10-13",
+   "title": "The manicurist",
+   "summary": "Aunt Petunia does her nails, and Harry is her nail-polish consultant.",
+   "text": "💚 Harry just wanted a quiet summer, but Malfoid has been visiting rather frequently.\nToday, she's turned his aunt into a personal manicurist and appointed Harry her nail polish consultant.\n\"Potter, if you're going to be here anyway, you might as well make yourself useful.\"\nThe service at Privet Drive has never been better.\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2110337897807180164"
+   ],
+   "date": "2026-10-14",
+   "title": "The investigation",
+   "summary": "Harry gets a letter from a girl, and Malfoid opens a colour-coded investigation.",
+   "text": "💚 Harry received a letter from a girl. Malfoid opened an investigation.\nThe notebook has an index, color-coded tabs, and a family tree. The Ministry of Magic has fewer resources dedicated to Dark Wizards.\nHarry may want to reconsider the security of his owl post. 😌\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2110363690797064213"
+   ],
+   "date": "2026-10-14",
+   "title": "A Muggle restaurant",
+   "summary": "Harry takes her out to dinner, and she orders for both of them.",
+   "text": "Malfoid wanted to experience a Muggle restaurant. Harry took her to dinner.💚\nShe ordered for both of them. Harry tried to object. She had already decided that sharing a dinner meant sharing a taste in food.\nThe waiter quietly chose not to get involved. \n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2109553251704360999"
+   ],
+   "date": "2026-10-12",
+   "title": "The zoo",
+   "summary": "Harry takes her to the zoo, and she grills him about the elephants' trunks.",
+   "text": "Harry’s POV: You take Malfoid to the zoo, and she spends five minutes interrogating you about elephants.\n“So, Potter, the principal attraction is that they possess exceptionally long trunks? Really, really long trunks? And people come here to admire them?🐘🐍💀\n#Malfoid"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2111101038866370783"
+   ],
+   "date": "2026-10-16",
+   "title": "The midsummer inspection",
+   "summary": "At a Malfoy estate she reviews Crabbe and Goyle's training from her broomstick, clipboard in hand.",
+   "text": "Back in June, Malfoid had assigned Crabbe and Goyle a summer improvement plan. By midsummer, it was time for an inspection.\nShe summoned her school friends to one of the Malfoy family estates. As Crabbe and Goyle struggled through their training, Malfoid flew alongside them on her broomstick, clipboard in hand, conducting what she considered a perfectly reasonable performance review.\n“Come along, ladies. September is approaching, and I will not entertain mediocrity.”\nShe had requested better fitness, a more pleasing appearance, and companions worthy of the Malfoy name. Hardly unreasonable demands. She was not asking for miracles. Merely results.\nSome people regarded greatness as a gift. Malfoid considered it an obligation. 🐍💚\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2111420544461508612"
+   ],
+   "date": "2026-10-17",
+   "title": "Crabbe's summer, I",
+   "summary": "Crabbe trains all summer to become someone Malfoid could be proud of, and starts to have doubts.",
+   "text": "For years, Crabbe has remained a faithful companion to Malfoid, putting up with her teasing, her habit of treating her like air, and the occasional accusation that she cannot even read properly. Now Malfoid has decided that her appearance requires improvement.\nCrabbe is spending the summer trying to become someone Malfoid could be proud of. Every exercise, every humiliation, every aching muscle - she puts herself through it all for her.\nAlone in her bedroom, staring at Malfoid's photograph, Crabbe begins to question what years of loyalty have earned her. How much longer must she endure this treatment, and the constant feeling of never being good enough? 🐍\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2110479014938747357"
+   ],
+   "date": "2026-10-14",
+   "title": "Manners at the Dursleys'",
+   "summary": "She works hard at being polite to the Dursleys, until Harry tells her she needn't bother.",
+   "text": "Malfoid really tried to behave herself around the Dursleys. She made a genuine effort not to obliterate them with dark magic.\nThe Dursleys, naturally, sensed that their lives and deaths rested entirely in the hands of this lovely, blonde creature with the cold eyes and impeccable manners.\nFinally, Harry told her she didn't have to be polite.\nA terrible mistake. A wonderful mistake. 🐍🍵\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2110784280917918116"
+   ],
+   "date": "2026-10-15",
+   "title": "Where Harry slept",
+   "summary": "She asks Mr. Dursley where Harry's bedroom was, and her serpent pendant starts to glow.",
+   "text": "Last time, Harry told Malfoid she didn't have to be so polite to the Dursleys. Wonderful news, naturally. Still, a proper lady is a proper lady, and good manners are hardly a burden.\nSo, on their next visit, Malfoid did what any proper lady would do: she asked Mr. Dursley a few questions about Harry's childhood. And, quite naturally, where Harry's bedroom had been.\nWhen Mr. Dursley answered, Malfoid politely asked him to repeat himself. She couldn't possibly have understood him correctly. Perhaps she was unfamiliar with some obscure dialect of Muggle English.\nThen her icy eyes grew colder, and the little silver serpent at her throat began to glow emerald green.\nHarry had told her she needn't be polite.\nShe had taken him at his word. 🐍\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2110851309477712035"
+   ],
+   "date": "2026-10-15",
+   "title": "Alone with Mr. Dursley",
+   "summary": "Malfoid shows Vernon the difference between politeness and weakness.",
+   "text": "Malfoid has always believed that every gentleman deserves a fair hearing, every lady deserves impeccable manners, and every insult against someone she loves deserves an appropriate response.\nAlone with Mr. Dursley, she is about to demonstrate the difference between politeness and weakness. He has mistaken her courtesy for submission, her patience for indifference, and her silence for permission. An understandable mistake, perhaps. But one does not survive long in pure-blood society by confusing a lady's restraint with an inability to act.\nHarry returns at precisely the wrong moment. Or, depending on one's perspective, the perfect one. 🐍💚\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2111206060002353343"
+   ],
+   "date": "2026-10-16",
+   "title": "\"Mercy...?\"",
+   "summary": "Vernon hangs pinned to his own wall, and Harry asks her to show mercy.",
+   "text": "The Malfoys have many traditions. One is never allowing an inferior specimen to dictate the terms. Vernon Dursley has had the misfortune of discovering this one.\nTen years of treating Harry Potter as a burden have brought him to this curious position: suspended against his own wall, awaiting judgment from a young lady who regards his existence as a breach of etiquette.\nMalfoid has yet to decide how the lesson shall conclude. Then Potter, naturally, chooses this precise moment to complicate matters.\n\"Mercy...?\"\nA lesser woman might have mistaken restraint for defeat. But even the most righteous anger must eventually answer to the heart, and Malfoid has discovered that loving Harry Potter can be terribly inconvenient. 🐍💚\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2111516347305713809"
+   ],
+   "date": "2026-10-17",
+   "title": "A token of appreciation",
+   "summary": "She spares Vernon but promises the Dursleys a \"gift\" they will keep for ten years.",
+   "text": "Malfoid believed in sparing mercy, swift justice, and defending the honor of her pure-blood name. Had Vernon Dursley's fate been hers to decide, ten years of cruelty toward Harry Potter would have earned him far more than a stern lecture and an undignified fall.\nBut Potter had intervened. Much to her own annoyance, Malfoid had honored his wishes. Harry had granted the Dursleys their reprieve. She would not take that gift back from him. The Uncle Who Lived, however, had yet to learn the full meaning of gratitude. Naturally, this did not mean the matter was settled.\n“After ten years of having Harry Potter under your roof, Mr. Dursley, I believe your family deserves a suitable token of appreciation.”\nA gracious smile. A perfectly measured pause.\n“For every year you have deprived him of kindness, comfort, and the most ordinary pleasures of childhood, the House of Malfoy shall offer your household a gift of its own. Tomorrow, you shall receive it. You will keep it for ten years.”\nHow fortunate the Dursleys were to receive such distinguished recognition. The House of Malfoy has always believed in returning kindness. 🐍💚\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2111580695458193600"
+   ],
+   "date": "2026-10-17",
+   "title": "Azkaban for two",
+   "summary": "Harry admits he feared she'd go to Azkaban, and she says he'd better come along.",
+   "text": "Malfoid had been prepared to employ dark magic in the pursuit of justice. Instead, Potter confessed that he had asked her to spare Vernon because he feared she might be sent to Azkaban for harming a Muggle.\nFor once, the young lady of the House of Malfoy found herself without a retort. How dreadfully inconvenient.\nShe slipped her arm through his.\n“Should the Ministry ever send me to Azkaban, Potter, I trust you will insist on accompanying me.”\n“You want me to come to Azkaban with you?”\n“Don't be absurd. I should hardly expect you to let me go alone.”\nShe continued walking, perfectly satisfied with this arrangement. The House of Malfoy had endured worse indignities. Besides, Dementors had never particularly troubled her. She regarded them as little more than miserable pets.\nAs for the Dursleys, their promised gift remained a secret. For now. 🐍💚\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2111817643732742204"
+   ],
+   "date": "2026-10-18",
+   "title": "Crabbe's summer, II",
+   "summary": "Crabbe's makeover becomes something she wants for herself.",
+   "text": "Crabbe had been given a summer to become someone Malfoid would find acceptable. She intended to fulfill that promise, no matter how many failed hairstyles, exhausting workouts, or frustrating hours before the mirror it required.\nAfter years of teasing, casual dismissals, and Malfoid's endless criticisms, Crabbe had every reason to resent the task. Yet she kept going, still desperate to earn the approval of the very girl who had made her feel so inadequate.\nBut something was changing. She no longer wanted merely to become someone Malfoid could be proud of. She wanted to look in the mirror and finally be satisfied with the girl looking back.\nMalfoid had set the transformation in motion. Whether she would get to decide what Crabbe became was another matter entirely. 🐍💚\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2111910971015131417"
+   ],
+   "date": "2026-10-18",
+   "title": "The gardener's misfortune",
+   "summary": "A backstory: how gardener Percival Beaumont met a Dementor and his cottage came free.",
+   "text": "Why was Malfoid so fortunate as to offer Harry Potter the gardener’s cottage at the family estate?\nBecause the previous occupant, Percival Beaumont, had suffered a rather unfortunate accident.\nBeaumont was a respectable, hardworking gardener from an old pure-blood family of French ancestry. He had spent years tending the Malfoy gardens, never imagining that his career would end in a rosebush after an encounter with a Dementor.\nThis particular specimen was widely regarded as the intellectually challenged cousin of the entire Dementor family. Its evaluations were a catalogue of failure, and its habit of almost letting prisoners escape had made it a recurring embarrassment to Azkaban.\nPoor Beaumont had simply been tending his flowers when the creature appeared. A ladder toppled, roses were ruined, and the gardener found himself at the center of a supernatural calamity. A lovely painting of young Miss Malfoy watched the entire scene from afar, her painted expression serenely indifferent.\nBeaumont subsequently reconsidered his career choices. The cottage became vacant, and Miss Malfoy acquired a convenient solution to Potter’s housing problem.\nHow fortunate. 🐍💚\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2111866577800880594"
+   ],
+   "date": "2026-10-18",
+   "title": "Nowhere to live",
+   "summary": "With two weeks until Hogwarts, Harry has nowhere to live. The Malfoy estate has a vacancy.",
+   "text": "More than two weeks remained before Hogwarts reopened when Harry Potter discovered a rather inconvenient detail: he had nowhere to live.\nMalfoid listened to his predicament with the aristocratic displeasure of someone watching a badly laid dinner table.\nFortunately, the Malfoy estate had suitable accommodation available. The gardener had recently suffered a rather unfortunate accident, leaving his cottage vacant. Her father, it seemed, had already heard quite enough about Potter. Malfoid delivered this revelation with a knowing sideways smile.\nAnd so the matter was settled.\nThe House of Malfoy was expecting a guest. 🐍💚\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2112217414293160204"
+   ],
+   "date": "2026-10-19",
+   "title": "Malfoid is hungry",
+   "summary": "With the matter settled, it's late, and Malfoid is hungry. Potter will have to be useful.",
+   "text": "Having secured Potter's agreement to reside at the Malfoy estate, Malfoid considered the matter settled. She saw little reason to entertain further discussion. One generally knew better than to argue with a Malfoy.\nUnfortunately, another matter demanded her attention.\nMalfoid was hungry.\nIt was late, and most respectable establishments had already closed for the evening. Fortunately, Potter was still at hand.\nHaving accepted her hospitality, he could hardly object to a small service in return. Malfoid had every confidence that Potter would prove useful, even if he had yet to appreciate the full extent of his new obligations. 🐍💚\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2112291604635525287"
+   ],
+   "date": "2026-10-19",
+   "title": "Fish and chips",
+   "summary": "A paper-wrapped portion of fish and chips tests her dignity, and Potter offers to feed her a chip.",
+   "text": "In all her young life, Malfoid had learned that belonging to an old pure-blood family was no simple matter. Expectations to uphold, conventions to observe, and an endless list of things a young lady simply did not do.\nYet never had her dignity faced a test quite so grave as a paper-wrapped portion of fish and chips.\n“Another indignity, Potter, and I shall resort to the Dark Arts.”\n“Perhaps you could stop threatening dark magic every time something inconveniences you.”\nThe nerve of him.\nThen Potter made an even more outrageous proposal: he offered to feed her one of the chips.\nMalfoid considered the matter. She would permit it, naturally, on the strict condition that he never speak of the incident again. The reputation of the House of Malfoy was not to be compromised over a potato.\nPotter solemnly agreed.\nAnd beneath the warm lights of a late-night takeaway, the fate of the wizarding world rested on his ability to keep his mouth shut. 🐍💚\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "summer",
+   "post_ids": [
+    "2112584252743192814"
+   ],
+   "date": "2026-10-20",
+   "title": "Malfoy Manor",
+   "summary": "An evening walk to the Manor. \"You'll be staying in the gardener's cottage.\"",
+   "text": "The fish and chips proved unexpectedly delicious, and Malfoid appeared to enjoy the evening considerably more than she would ever have admitted.\nWith supper concluded, they set off across the countryside by magic. Malfoid had insisted on showing Potter the view before taking him to the estate. She had always enjoyed a pleasant evening walk, and she saw no reason to abandon the habit merely because she had acquired company.\nAt last, she stopped.\nBefore them, beyond the ancient trees and sweeping grounds, stood Malfoy Manor. Harry stared at the immense residence.\n“Malfoy Manor. The one place in Britain I never expected to see from quite this close, and somehow the very place I'm apparently going to live. I suppose we're really doing this.”\nMalfoid turned to him, mildly astonished.\n“Good heavens, no. You'll be staying in the gardener's cottage. Do try to keep up, Potter.” 🐍💚\n#Malfoid #HarryPotter #Yearning"
+  },
+  {
+   "arc": "war",
+   "post_ids": [
+    "2109298094219444487"
+   ],
+   "date": "2026-10-11",
+   "title": "\"Bang!\"",
+   "summary": "Don't mistake her soft side for weakness. When the Dark Lord comes, she'll stand beside Harry.",
+   "text": "“Bang!” 💥🐍\nNever mistake Malfoid's softer side for weakness. She's a witch, a master of the Dark Arts, and when the Dark Lord comes, she'll stand beside Harry.\nSome girls make hearts melt. Others make Dark Lords disappear. 🪄\n#Malfoid"
+  },
+  {
+   "arc": "war",
+   "post_ids": [
+    "2109025017828913304"
+   ],
+   "date": "2026-10-10",
+   "title": "Out of the Ministry",
+   "summary": "After the Battle of the Department of Mysteries, nothing will be the same.",
+   "text": "After the Battle of the Department of Mysteries, nothing will ever be the same again. Some losses can’t be undone. Some departures change everything.\nOut of the Ministry. 🐍\n#Malfoid"
+  },
+  {
+   "arc": "war",
+   "post_ids": [
+    "2109067805312344328"
+   ],
+   "date": "2026-10-10",
+   "title": "The Forbidden Forest",
+   "summary": "\"We'll win, right? We're not homeless?\" \"Of course we will.\"",
+   "text": "“Ouhhh, Harry, we’ll win, right? We’ll defeat the Dark Lord? We’re not homeless, right?” 🥺❄️💚\n“Of course we will.”\nLove conquers darkness.\nEven if we have to live in the Forbidden Forest.\n#Malfoid"
+  },
+  {
+   "arc": "war",
+   "post_ids": [
+    "2108662827535704443"
+   ],
+   "date": "2026-10-09",
+   "title": "After the war",
+   "summary": "The Dark Lord has fallen, and love finds its way back into the world.",
+   "text": "The Dark Lord has fallen. The war is over. The world can finally breathe again. And as the darkness lifts, love finds its way back to the world. Perhaps this is what victory was always meant to look like. ❤️💚\n#Malfoid"
+  }
+ ],
+ "excluded": {
+  "2112496823004692885": "fandom commentary, not a story: Beauty will save the world. Do it for her. Do it for Malfoid. 💚🐍 #Malf",
+  "2112487164638376208": "quote post: Worth every second of the wait! And the videos keep getting longer and",
+  "2112442404062232661": "quote post: With such high-quality #Malfoid content coming every single day, I'm p",
+  "2112440470395822400": "quote post: Another wonderful day with #Malfoid ahead of us. It's going to be wond",
+  "2112307075845968333": "fandom commentary, not a story: They will call Malfoid stupid, fake, racist, or whatever else they can",
+  "2112168713638355135": "quote post: I love all the new Malfoid content we've been getting every single day",
+  "2112145538627904001": "quote post: Every day is a #Malfoid day! 💚🐍",
+  "2112121922574032928": "fandom commentary, not a story: Malfoid is a sign of hope for humanity. Yet the darkness of her family",
+  "2112077534330311007": "quote post: Good morning to another spectacular day with #Malfoid! 💚🐍☀️",
+  "2111776286473412707": "fandom commentary, not a story: Every single day, I'm genuinely shocked by the incredible amount of Ma",
+  "2111753617896288330": "quote post: That’s the beauty of ordinary life: the simple joy of having someone b",
+  "2111753130211742081": "quote post: Malfoid never disappoints.",
+  "2111744191462273042": "quote post: I love these little Malfoid stories about everyday life. No grand magi",
+  "2111736569723838711": "quote post: Another Malfoid trailer. The anticipation is almost as good as what’s ",
+  "2111398890607874533": "fandom commentary, not a story: They keep calling Malfoid a passing trend, predicting her inevitable d",
+  "2111370516586012929": "quote post: It looks like we're in for a very long, wonderful Saturday with Malfoi",
+  "2111362081987436770": "quote post: The best way to start the day is with #Malfoid. Another outstanding vi",
+  "2111354086784160241": "quote post: What a great way to start the day! Another piece of amazing cinema, an",
+  "2111236089717633060": "fandom commentary, not a story: It's kind of funny when I think about it. If someone had told me two w",
+  "2111116742227304712": "fandom commentary, not a story: I admit, I've completely lost track. What's the current established na",
+  "2111074870675083734": "quote post: Malfoid is an epic of ordinary life as we wish it could be: beauty, ro",
+  "2111073468003262732": "quote post: I can absolutely see it happening. Timeless elegance, aristocratic bea",
+  "2111043560900296776": "quote post: #Malfoid: pure class, timeless elegance, and a standard of beauty the ",
+  "2111017162853036244": "quote post: Malfoid. The answer to everything. 💚🐍",
+  "2111004543920345322": "fandom commentary, not a story: Malfoid rides again! 💚🐍 Another day of posts, reposts, and keeping the",
+  "2111004177631514631": "fandom commentary, not a story: Malfoid rides again! 💚🐍 Another day of posts, reposts, and keeping the",
+  "2110863901764239430": "quote post: Perhaps I should check in on Crabbe and Goyle in a while and see if th",
+  "2110828685339049992": "quote post: I read a week ago that the Malfoid trend was dying. 😂 Meanwhile, every",
+  "2110800970879750186": "quote post: Another masterpiece is on its way. Hopefully Harry won't end up being ",
+  "2110703352354914726": "fandom commentary, not a story: HBO should be very, very afraid. They have their showrunners, their me",
+  "2110703145592688904": "quote post: This is absolutely amazing!",
+  "2110670549139730802": "quote post: Harry has two very important tasks: don't embarrass Malfoid and learn ",
+  "2110666218856230935": "quote post: One day, statues of Malfoid shall rise in the squares of great cities,",
+  "2110653639706677655": "quote post: Stay calm. Keep yearning. Let Malfoid handle the rest. 💚🐍",
+  "2110625059530326166": "fandom commentary, not a story: Another day, another chance to celebrate Malfoid and share all the won",
+  "2110512423991968159": "fandom commentary, not a story: The video from @Magncsans was absolutely amazing, but honestly, Potter",
+  "2110488300155003349": "quote post: Finally, someone competent is taking Harry's education in hand. Withou",
+  "2110442881550873037": "quote post: Another priceless artifact has been added to the Malfoid Museum. Futur",
+  "2110397575660724300": "quote post: There's so much great Malfoid content being created that I'm honestly ",
+  "2110377563881435334": "quote post: It's so true!",
+  "2110360609313210494": "quote post: We absolutely need this!💚🐍",
+  "2110334872942153967": "quote post: Somewhere deep in our hearts, we have always yearned for magical stori",
+  "2110260388050702397": "fandom commentary, not a story: New day. New chapter. New adventures await. 💚 The mission remains unch",
+  "2110259368423817249": "fandom commentary, not a story: New day. New chapter. New adventures await. 💚 The mission remains unch",
+  "2110158269175992623": "quote post: THE GREATEST EVENT OF THE CENTURY 💚",
+  "2110153453213217203": "fandom commentary, not a story: Honestly, I have no idea how @Magncsans amazing video is going to end.",
+  "2110066680869061084": "quote post: Do it for her. Do it for humanity. To restore our faith in goodness, t",
+  "2110058025251946890": "quote post: We live in glorious times. More and more Malfoid content every day, an",
+  "2109964305437516024": "quote post: Whoever's filming her has the courage of a Gryffindor and the survival",
+  "2109945353709470077": "quote post: We're only getting started. 💚🐍",
+  "2109940496231506141": "quote post: Humanity shall be restored to greatness, a new Renaissance shall begin",
+  "2109889585597603919": "fandom commentary, not a story: Another day, more Malfoid, more greatness ahead! 💚🐍 #Malfoid #HarryPot",
+  "2109713376783855700": "quote post: This all makes sense. A must-read! 💚",
+  "2109593926092902762": "fandom commentary, not a story: Make no mistake: Malfoid stands for elegance, dignity, and grace. She ",
+  "2109585043978948996": "fandom commentary, not a story: Malfoid posting shall continue! I haven't felt this inspired in years.",
+  "2109382332390264898": "promo caption, not a story",
+  "2108915482715734168": "call-to-arms caption (Kombat homage), not a story",
+  "2108586296218435987": "fandom commentary, not a story: We have built a world that knows the price of everything and the value",
+  "2108539782959903188": "fandom commentary, not a story: Some things are still worth fighting for: beauty that takes your breat",
+  "2108521185575108998": "fandom commentary, not a story: In a world that feels consumed by darkness, cruelty, and indifference,",
+  "2108484075665166669": "fandom commentary, not a story: The #Malfoid trend is great because it touches something gentle in the",
+  "2112233158234268115": "author note / reply: Before continuing Potter’s arrival at the Malfoy estate and Crabbe’s s",
+  "2112133878202683611": "author note / reply: @Hamed_Aaref @GolondrinoJoe Oh, I just noticed this was a comment on t",
+  "2111911140229869693": "author note / reply: I suddenly felt the urge to tell the story of the gardener and the rat",
+  "2111583880000205029": "author note / reply: Hmm, if Crabbe is getting her own subplot, I suppose she deserves a pr",
+  "2111130107486380359": "author note / reply: @SuperLoloT Okay, I saw it! Thank God for Instagram downloaders. Thing",
+  "2109671022983360910": "author note / reply: On Wednesdays, we wear Slytherin green. 💚🐍",
+  "2109553471313584633": "author note / reply: 🐘💚 Malfoid at the zoo is inspired by the very first YouTube video, Me ",
+  "2109370399037538372": "author note / reply: @ThGrumpySheriff The really interesting part is imagining how Malfoid ",
+  "2109025177602289945": "author note / reply: Inspired by Alexander Burnett’s iconic photograph Out of Afghanistan (",
+  "2108931537974829119": "author note / reply: The inspiration for this was, of course, Max Alpert’s famous 1942 phot"
+ },
+ "skipped": {},
+ "posts_cache": {},
+ "updated": "2026-10-20",
+ "newest_post_id": "2112584252743192814"
+}

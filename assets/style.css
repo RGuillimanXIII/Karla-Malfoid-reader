@@ -1,0 +1,26 @@
+:root{--bg:#0f1512;--panel:#17201b;--ink:#e9efe9;--muted:#9fb1a5;--accent:#5fbf8a;--silver:#c9d1d6}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+a{color:var(--accent)}
+.hero{max-width:760px;margin:0 auto;padding:2.5rem 1rem 1rem;text-align:center}
+.hero h1{font-family:Georgia,serif;font-weight:normal;font-size:clamp(1.7rem,5vw,2.6rem);margin:.2rem 0 .6rem;color:var(--silver)}
+.kicker{color:var(--muted);margin:0}
+.credit{font-size:1.05rem;max-width:620px;margin:.4rem auto}
+.meta{color:var(--muted);font-size:.85rem}
+.jump{display:flex;flex-wrap:wrap;gap:.5rem;justify-content:center;margin:1.2rem 0}
+.btn{display:inline-block;padding:.45rem .8rem;border-radius:8px;background:var(--panel);color:var(--ink);text-decoration:none;border:1px solid #2b3a31;font-size:.92rem}
+.btn .c{color:var(--muted);font-size:.8rem}
+main{max-width:600px;margin:0 auto;padding:0 .75rem}
+section.arc{margin:2rem 0 3rem;padding-top:1rem;border-top:1px solid #26332b;scroll-margin-top:8px}
+section.arc h2{font-family:Georgia,serif;font-weight:normal;color:var(--silver);font-size:clamp(1.4rem,4vw,1.9rem);margin:.2rem 0}
+section.arc .sub{color:var(--muted);margin:.2rem 0 1rem}
+article.short{margin:1.6rem 0 2.2rem;scroll-margin-top:8px}
+article.short h3{font-family:Georgia,serif;font-weight:normal;font-size:1.2rem;margin:0 0 .2rem;color:var(--ink)}
+article.short h3 .n{display:inline-block;min-width:2rem;color:var(--accent);font-family:system-ui,sans-serif;font-weight:600}
+.sum{color:var(--muted);margin:0 0 .6rem;font-size:.95rem}
+.embed{min-height:120px}
+.embed blockquote{margin:0;background:var(--panel);border-left:3px solid var(--accent);border-radius:10px;padding:.8rem 1rem;font-size:.95rem}
+.embed blockquote p{margin:0 0 .5rem;white-space:normal}
+.embed .twitter-tweet{margin:0 auto!important}
+.orig{font-size:.85rem;color:var(--muted);margin:.4rem 0 0}
+.foot{max-width:760px;margin:2rem auto;padding:1rem;color:var(--muted);font-size:.85rem;border-top:1px solid #26332b;text-align:center}
